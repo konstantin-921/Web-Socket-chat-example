@@ -1,6 +1,7 @@
 $(function () {
 
   "use strict";
+
   // for better performance - to avoid searching in DOM
   var content = $('#content');
   var input = $('#input');
